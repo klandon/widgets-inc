@@ -1,2 +1,3 @@
 # widgets-inc
-demo app for microservers
+demo app for micro services
+
